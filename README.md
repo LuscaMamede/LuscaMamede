@@ -2,7 +2,7 @@
 
 - 📖 Estudando desenvolvimento de sistemas
 - 📔 Aluno em Estácio
-- 📱 Estagiando Flutter/Dart na Chiptronic
+- 📱 Focado em Java/C++
 - 📧 Contato via: LuscaMamede@outlook.com
 - 🆔 Pronouns: He/Him
 
