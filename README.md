@@ -2,7 +2,7 @@
 
 - 📖 Estudando desenvolvimento de sistemas
 - 📔 Aluno em Estácio
-- 📱 Focado em Java/C++
+- 📱 Focado em React e Node.
 - 📧 Contato via: LuscaMamede@outlook.com
 - 🆔 Pronouns: He/Him
 
