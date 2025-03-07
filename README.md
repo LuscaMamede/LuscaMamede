@@ -7,9 +7,9 @@
 - 🆔 Pronouns: He/Him
 
 <div align="center">
-  <a href="https://beacons.ai/luscamamede">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuscaMamede&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuscaMamede&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/luscamamede">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luscamamede&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscamamede&layout=compact&langs_count=7&theme=dracula"/>
 
   
   ##
